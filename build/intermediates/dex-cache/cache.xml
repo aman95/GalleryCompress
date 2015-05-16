@@ -2,20 +2,6 @@
 <items version="2" >
 
     <item
-        jar="/home/aman/AndroidStudioProjects/GalleryCompress/app/build/intermediates/exploded-aar/com.android.support/gridlayout-v7/22.1.1/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="2f958cff6198f222923ef646cbc17a7f38935c2b">
-        <dex dex="/home/aman/AndroidStudioProjects/GalleryCompress/app/build/intermediates/pre-dexed/debug/classes-7e5299a0574cca8777b7b0bc804030fbf51cc71f.jar" />
-    </item>
-    <item
-        jar="/home/aman/android/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/22.1.1/support-annotations-22.1.1.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
-        <dex dex="/home/aman/AndroidStudioProjects/GalleryCompress/app/build/intermediates/pre-dexed/debug/support-annotations-22.1.1-23e04c97639b84df5f9a1d8ac58ded533e8d3fee.jar" />
-    </item>
-    <item
         jar="/home/aman/AndroidStudioProjects/GalleryCompress/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/libs/internal_impl-22.1.1.jar"
         jumboMode="false"
         revision="22.0.1"
@@ -23,11 +9,11 @@
         <dex dex="/home/aman/AndroidStudioProjects/GalleryCompress/app/build/intermediates/pre-dexed/debug/internal_impl-22.1.1-9d53b5046d3039eba6359b806302abf27deee6a1.jar" />
     </item>
     <item
-        jar="/home/aman/AndroidStudioProjects/GalleryCompress/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/jars/classes.jar"
+        jar="/home/aman/AndroidStudioProjects/GalleryCompress/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.1.1/jars/classes.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
-        <dex dex="/home/aman/AndroidStudioProjects/GalleryCompress/app/build/intermediates/pre-dexed/debug/classes-d165d79705dd30b9830cf268805c29667f9c64bf.jar" />
+        sha1="e0b0c35d02308b270015a74cada4887e2e49b889">
+        <dex dex="/home/aman/AndroidStudioProjects/GalleryCompress/app/build/intermediates/pre-dexed/debug/classes-f751f7bc699ca0d8b6189402f7f3360394f4198e.jar" />
     </item>
     <item
         jar="/home/aman/AndroidStudioProjects/GalleryCompress/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/classes.jar"
@@ -42,6 +28,34 @@
         revision="22.0.1"
         sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
         <dex dex="/home/aman/AndroidStudioProjects/GalleryCompress/app/build/intermediates/pre-dexed/debug/picasso-2.5.2-20757998107bbcff29d74b16fc1f6be8c0a6a073.jar" />
+    </item>
+    <item
+        jar="/home/aman/android/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/22.1.1/support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="/home/aman/AndroidStudioProjects/GalleryCompress/app/build/intermediates/pre-dexed/debug/support-annotations-22.1.1-23e04c97639b84df5f9a1d8ac58ded533e8d3fee.jar" />
+    </item>
+    <item
+        jar="/home/aman/AndroidStudioProjects/GalleryCompress/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="/home/aman/AndroidStudioProjects/GalleryCompress/app/build/intermediates/pre-dexed/debug/classes-d165d79705dd30b9830cf268805c29667f9c64bf.jar" />
+    </item>
+    <item
+        jar="/home/aman/AndroidStudioProjects/GalleryCompress/app/build/intermediates/exploded-aar/com.android.support/gridlayout-v7/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2f958cff6198f222923ef646cbc17a7f38935c2b">
+        <dex dex="/home/aman/AndroidStudioProjects/GalleryCompress/app/build/intermediates/pre-dexed/debug/classes-7e5299a0574cca8777b7b0bc804030fbf51cc71f.jar" />
+    </item>
+    <item
+        jar="/home/aman/AndroidStudioProjects/GalleryCompress/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="22886d910315028a2b34b1ba068c265534ade87a">
+        <dex dex="/home/aman/AndroidStudioProjects/GalleryCompress/app/build/intermediates/pre-dexed/debug/classes-a18181258ecaa8cbd32db923a34554ea5f759f52.jar" />
     </item>
 
 </items>

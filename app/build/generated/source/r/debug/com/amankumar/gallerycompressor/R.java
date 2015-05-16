@@ -1774,7 +1774,7 @@ containing a value of this type.
         public static final int action_mode_bar=0x7f0b004e;
         public static final int action_mode_bar_stub=0x7f0b004d;
         public static final int action_mode_close_button=0x7f0b0036;
-        public static final int action_settings=0x7f0b0074;
+        public static final int action_settings=0x7f0b0075;
         public static final int activity_chooser_view_content=0x7f0b0037;
         public static final int alertTitle=0x7f0b0041;
         public static final int alignBounds=0x7f0b0015;
@@ -1788,7 +1788,7 @@ containing a value of this type.
         public static final int center=0x7f0b0018;
         public static final int center_horizontal=0x7f0b0019;
         public static final int center_vertical=0x7f0b001a;
-        public static final int checkBox1=0x7f0b0073;
+        public static final int checkBox1=0x7f0b0074;
         public static final int checkbox=0x7f0b0049;
         public static final int clip_horizontal=0x7f0b001b;
         public static final int clip_vertical=0x7f0b001c;
@@ -1829,6 +1829,7 @@ containing a value of this type.
         public static final int outPath=0x7f0b006b;
         public static final int pager=0x7f0b0062;
         public static final int parentPanel=0x7f0b003e;
+        public static final int preview_container=0x7f0b0072;
         public static final int progress_circular=0x7f0b0005;
         public static final int progress_horizontal=0x7f0b0006;
         public static final int qbar=0x7f0b0069;
@@ -1867,7 +1868,7 @@ containing a value of this type.
         public static final int textView2=0x7f0b0068;
         public static final int textView3=0x7f0b0066;
         public static final int textView4=0x7f0b006c;
-        public static final int thumbnail=0x7f0b0072;
+        public static final int thumbnail=0x7f0b0073;
         public static final int title=0x7f0b003d;
         public static final int title_template=0x7f0b0040;
         public static final int tool_bar=0x7f0b0060;

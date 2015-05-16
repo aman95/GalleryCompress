@@ -4,6 +4,7 @@ import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentStatePagerAdapter;
 
+import com.amankumar.gallerycompressor.ImagePreview;
 import com.amankumar.gallerycompressor.compress_fragment;
 
 /**
@@ -30,7 +31,7 @@ public class ViewPagerAdpater extends FragmentStatePagerAdapter {
                 break;
             }
             case 1: {
-                tab = new compress_fragment();
+                tab = new ImagePreview();
                 break;
             }
             case 2: {
