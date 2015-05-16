@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_vertical"
+    android:orientation="vertical"
+    android:background="#000000" >
+    
+    
+
+    <GridView
+        android:id="@+id/fileList"
+        android:layout_width="match_parent"
+        android:layout_height="480dp"
+        android:layout_alignParentLeft="true"
+        android:numColumns="3" >
+        
+    </GridView>
+
+    <Button
+        android:id="@+id/cancel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/submit"
+        android:layout_alignBottom="@+id/submit"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="44dp"
+        android:text="Cancel"
+        android:onClick="cancel" />
+
+    <Button
+        android:id="@+id/submit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginBottom="16dp"
+        android:layout_marginRight="37dp"
+        android:text="OK"
+        android:onClick="showSelectedImg" />
+
+    
+</RelativeLayout>
+<!-- From: file:/home/aman/AndroidStudioProjects/GalleryCompress/app/src/main/res/layout/browse_image.xml -->
